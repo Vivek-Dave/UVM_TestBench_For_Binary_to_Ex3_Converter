@@ -1,0 +1,1222 @@
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 0: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=  0  || out=  x 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 5: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=  0 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 10: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=  1 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 10: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=  1  || out=  4 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 15: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=  2 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 15: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=  2  || out=  5 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 15: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=  2  || out=  5 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 20: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=  3 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 20: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=  3  || out=  6 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 20: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=  3  || out=  6 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 25: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=  4 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 25: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=  4  || out=  7 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 25: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=  4  || out=  7 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 30: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=  5 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 30: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=  5  || out=  8 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 30: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=  5  || out=  8 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 35: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=  6 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 35: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=  6  || out=  9 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 35: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=  6  || out=  9 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 40: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=  7 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 40: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=  7  || out= 10 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 40: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=  7  || out= 10 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 45: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=  8 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 45: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=  8  || out= 11 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 45: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=  8  || out= 11 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 50: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=  9 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 50: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=  9  || out= 12 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 50: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=  9  || out= 12 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 55: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 10 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 55: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 10  || out= 13 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 55: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 10  || out= 13 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 60: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 11 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 60: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 11  || out= 14 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 60: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 11  || out= 14 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 65: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 12 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 65: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 12  || out= 15 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 65: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 12  || out= 15 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 70: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 13 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 70: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 13  || out= 16 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 70: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 13  || out= 16 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 75: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 14 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 75: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 14  || out= 17 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 75: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 14  || out= 17 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 80: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 15 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 80: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 15  || out= 18 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 80: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 15  || out= 18 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 85: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 16 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 85: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 16  || out= 19 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 85: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 16  || out= 19 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 90: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 17 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 90: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 17  || out= 20 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 90: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 17  || out= 20 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 95: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 18 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 95: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 18  || out= 21 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 95: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 18  || out= 21 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 100: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 19 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 100: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 19  || out= 22 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 100: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 19  || out= 22 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 105: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 20 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 105: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 20  || out= 23 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 105: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 20  || out= 23 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 110: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 21 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 110: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 21  || out= 24 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 110: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 21  || out= 24 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 115: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 22 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 115: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 22  || out= 25 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 115: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 22  || out= 25 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 120: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 23 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 120: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 23  || out= 26 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 120: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 23  || out= 26 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 125: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 24 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 125: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 24  || out= 27 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 125: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 24  || out= 27 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 130: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 25 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 130: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 25  || out= 28 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 130: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 25  || out= 28 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 135: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 26 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 135: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 26  || out= 29 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 135: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 26  || out= 29 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 140: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 27 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 140: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 27  || out= 30 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 140: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 27  || out= 30 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 145: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 28 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 145: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 28  || out= 31 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 145: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 28  || out= 31 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 150: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 29 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 150: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 29  || out= 32 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 150: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 29  || out= 32 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 155: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 30 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 155: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 30  || out= 33 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 155: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 30  || out= 33 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 160: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 31 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 160: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 31  || out= 34 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 160: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 31  || out= 34 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 165: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 32 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 165: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 32  || out= 35 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 165: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 32  || out= 35 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 170: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 33 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 170: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 33  || out= 36 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 170: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 33  || out= 36 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 175: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 34 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 175: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 34  || out= 37 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 175: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 34  || out= 37 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 180: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 35 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 180: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 35  || out= 38 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 180: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 35  || out= 38 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 185: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 36 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 185: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 36  || out= 39 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 185: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 36  || out= 39 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 190: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 37 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 190: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 37  || out= 40 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 190: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 37  || out= 40 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 195: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 38 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 195: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 38  || out= 41 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 195: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 38  || out= 41 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 200: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 39 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 200: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 39  || out= 42 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 200: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 39  || out= 42 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 205: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 40 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 205: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 40  || out= 43 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 205: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 40  || out= 43 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 210: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 41 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 210: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 41  || out= 44 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 210: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 41  || out= 44 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 215: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 42 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 215: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 42  || out= 45 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 215: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 42  || out= 45 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 220: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 43 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 220: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 43  || out= 46 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 220: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 43  || out= 46 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 225: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 44 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 225: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 44  || out= 47 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 225: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 44  || out= 47 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 230: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 45 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 230: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 45  || out= 48 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 230: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 45  || out= 48 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 235: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 46 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 235: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 46  || out= 49 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 235: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 46  || out= 49 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 240: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 47 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 240: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 47  || out= 50 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 240: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 47  || out= 50 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 245: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 48 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 245: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 48  || out= 51 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 245: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 48  || out= 51 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 49 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 49  || out= 52 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 250: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 49  || out= 52 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 255: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 50 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 255: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 50  || out= 53 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 255: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 50  || out= 53 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 260: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 51 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 260: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 51  || out= 54 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 260: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 51  || out= 54 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 265: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 52 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 265: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 52  || out= 55 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 265: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 52  || out= 55 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 270: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 53 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 270: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 53  || out= 56 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 270: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 53  || out= 56 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 275: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 54 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 275: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 54  || out= 57 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 275: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 54  || out= 57 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 280: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 55 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 280: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 55  || out= 58 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 280: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 55  || out= 58 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 285: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 56 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 285: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 56  || out= 59 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 285: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 56  || out= 59 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 290: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 57 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 290: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 57  || out= 60 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 290: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 57  || out= 60 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 295: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 58 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 295: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 58  || out= 61 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 295: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 58  || out= 61 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 300: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 59 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 300: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 59  || out= 62 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 300: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 59  || out= 62 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 305: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 60 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 305: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 60  || out= 63 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 305: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 60  || out= 63 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 310: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 61 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 310: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 61  || out= 64 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 310: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 61  || out= 64 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 315: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 62 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 315: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 62  || out= 65 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 315: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 62  || out= 65 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 320: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 63 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 320: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 63  || out= 66 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 320: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 63  || out= 66 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 325: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 64 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 325: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 64  || out= 67 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 325: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 64  || out= 67 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 330: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 65 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 330: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 65  || out= 68 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 330: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 65  || out= 68 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 335: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 66 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 335: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 66  || out= 69 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 335: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 66  || out= 69 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 340: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 67 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 340: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 67  || out= 70 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 340: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 67  || out= 70 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 345: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 68 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 345: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 68  || out= 71 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 345: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 68  || out= 71 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 350: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 69 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 350: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 69  || out= 72 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 350: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 69  || out= 72 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 355: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 70 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 355: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 70  || out= 73 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 355: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 70  || out= 73 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 360: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 71 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 360: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 71  || out= 74 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 360: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 71  || out= 74 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 365: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 72 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 365: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 72  || out= 75 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 365: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 72  || out= 75 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 370: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 73 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 370: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 73  || out= 76 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 370: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 73  || out= 76 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 375: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 74 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 375: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 74  || out= 77 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 375: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 74  || out= 77 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 380: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 75 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 380: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 75  || out= 78 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 380: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 75  || out= 78 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 385: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 76 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 385: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 76  || out= 79 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 385: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 76  || out= 79 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 390: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 77 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 390: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 77  || out= 80 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 390: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 77  || out= 80 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 395: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 78 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 395: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 78  || out= 81 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 395: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 78  || out= 81 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 400: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 79 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 400: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 79  || out= 82 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 400: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 79  || out= 82 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 405: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 80 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 405: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 80  || out= 83 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 405: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 80  || out= 83 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 410: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 81 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 410: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 81  || out= 84 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 410: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 81  || out= 84 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 415: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 82 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 415: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 82  || out= 85 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 415: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 82  || out= 85 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 420: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 83 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 420: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 83  || out= 86 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 420: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 83  || out= 86 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 425: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 84 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 425: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 84  || out= 87 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 425: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 84  || out= 87 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 430: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 85 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 430: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 85  || out= 88 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 430: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 85  || out= 88 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 435: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 86 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 435: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 86  || out= 89 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 435: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 86  || out= 89 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 440: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 87 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 440: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 87  || out= 90 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 440: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 87  || out= 90 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 445: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 88 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 445: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 88  || out= 91 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 445: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 88  || out= 91 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 450: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 89 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 450: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 89  || out= 92 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 450: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 89  || out= 92 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 455: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 90 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 455: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 90  || out= 93 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 455: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 90  || out= 93 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 460: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 91 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 460: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 91  || out= 94 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 460: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 91  || out= 94 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 465: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 92 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 465: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 92  || out= 95 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 465: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 92  || out= 95 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 470: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 93 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 470: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 93  || out= 96 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 470: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 93  || out= 96 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 475: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 94 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 475: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 94  || out= 97 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 475: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 94  || out= 97 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 480: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 95 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 480: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 95  || out= 98 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 480: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 95  || out= 98 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 485: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 96 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 485: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 96  || out= 99 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 485: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 96  || out= 99 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 490: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 97 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 490: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 97  || out=100 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 490: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 97  || out=100 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 495: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 98 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 495: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 98  || out=101 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 495: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 98  || out=101 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 500: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 99 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 500: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 99  || out=102 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 500: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 99  || out=102 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 505: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=100 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 505: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=100  || out=103 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 505: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=100  || out=103 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 510: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=101 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 510: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=101  || out=104 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 510: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=101  || out=104 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 515: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=102 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 515: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=102  || out=105 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 515: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=102  || out=105 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 520: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=103 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 520: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=103  || out=106 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 520: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=103  || out=106 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 525: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=104 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 525: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=104  || out=107 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 525: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=104  || out=107 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 530: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=105 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 530: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=105  || out=108 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 530: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=105  || out=108 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 535: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=106 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 535: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=106  || out=109 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 535: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=106  || out=109 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 540: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=107 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 540: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=107  || out=110 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 540: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=107  || out=110 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 545: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=108 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 545: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=108  || out=111 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 545: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=108  || out=111 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 550: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=109 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 550: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=109  || out=112 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 550: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=109  || out=112 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 555: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=110 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 555: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=110  || out=113 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 555: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=110  || out=113 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 560: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=111 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 560: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=111  || out=114 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 560: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=111  || out=114 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 565: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=112 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 565: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=112  || out=115 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 565: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=112  || out=115 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 570: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=113 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 570: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=113  || out=116 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 570: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=113  || out=116 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 575: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=114 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 575: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=114  || out=117 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 575: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=114  || out=117 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 580: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=115 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 580: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=115  || out=118 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 580: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=115  || out=118 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 585: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=116 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 585: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=116  || out=119 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 585: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=116  || out=119 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 590: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=117 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 590: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=117  || out=120 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 590: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=117  || out=120 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 595: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=118 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 595: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=118  || out=121 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 595: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=118  || out=121 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 600: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=119 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 600: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=119  || out=122 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 600: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=119  || out=122 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 605: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=120 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 605: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=120  || out=123 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 605: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=120  || out=123 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 610: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=121 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 610: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=121  || out=124 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 610: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=121  || out=124 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 615: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=122 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 615: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=122  || out=125 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 615: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=122  || out=125 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 620: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=123 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 620: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=123  || out=126 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 620: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=123  || out=126 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 625: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=124 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 625: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=124  || out=127 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 625: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=124  || out=127 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 630: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=125 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 630: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=125  || out=128 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 630: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=125  || out=128 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 635: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=126 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 635: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=126  || out=129 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 635: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=126  || out=129 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 640: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=127 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 640: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=127  || out=130 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 640: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=127  || out=130 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 645: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=128 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 645: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=128  || out=131 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 645: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=128  || out=131 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 650: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=129 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 650: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=129  || out=132 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 650: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=129  || out=132 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 655: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=130 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 655: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=130  || out=133 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 655: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=130  || out=133 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 660: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=131 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 660: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=131  || out=134 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 660: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=131  || out=134 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 665: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=132 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 665: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=132  || out=135 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 665: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=132  || out=135 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 670: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=133 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 670: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=133  || out=136 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 670: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=133  || out=136 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 675: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=134 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 675: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=134  || out=137 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 675: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=134  || out=137 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 680: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=135 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 680: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=135  || out=138 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 680: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=135  || out=138 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 685: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=136 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 685: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=136  || out=139 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 685: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=136  || out=139 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 690: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=137 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 690: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=137  || out=140 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 690: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=137  || out=140 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 695: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=138 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 695: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=138  || out=141 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 695: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=138  || out=141 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 700: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=139 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 700: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=139  || out=142 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 700: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=139  || out=142 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 705: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=140 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 705: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=140  || out=143 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 705: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=140  || out=143 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 710: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=141 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 710: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=141  || out=144 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 710: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=141  || out=144 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 715: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=142 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 715: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=142  || out=145 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 715: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=142  || out=145 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 720: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=143 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 720: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=143  || out=146 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 720: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=143  || out=146 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 725: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=144 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 725: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=144  || out=147 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 725: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=144  || out=147 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 730: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=145 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 730: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=145  || out=148 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 730: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=145  || out=148 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 735: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=146 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 735: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=146  || out=149 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 735: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=146  || out=149 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 740: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=147 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 740: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=147  || out=150 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 740: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=147  || out=150 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 745: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=148 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 745: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=148  || out=151 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 745: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=148  || out=151 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 750: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=149 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 750: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=149  || out=152 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 750: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=149  || out=152 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 755: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=150 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 755: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=150  || out=153 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 755: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=150  || out=153 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 760: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=151 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 760: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=151  || out=154 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 760: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=151  || out=154 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 765: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=152 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 765: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=152  || out=155 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 765: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=152  || out=155 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 770: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=153 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 770: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=153  || out=156 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 770: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=153  || out=156 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 775: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=154 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 775: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=154  || out=157 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 775: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=154  || out=157 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 780: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=155 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 780: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=155  || out=158 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 780: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=155  || out=158 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 785: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=156 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 785: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=156  || out=159 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 785: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=156  || out=159 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 790: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=157 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 790: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=157  || out=160 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 790: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=157  || out=160 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 795: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=158 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 795: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=158  || out=161 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 795: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=158  || out=161 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 800: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=159 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 800: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=159  || out=162 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 800: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=159  || out=162 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 805: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=160 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 805: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=160  || out=163 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 805: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=160  || out=163 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 810: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=161 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 810: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=161  || out=164 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 810: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=161  || out=164 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 815: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=162 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 815: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=162  || out=165 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 815: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=162  || out=165 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 820: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=163 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 820: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=163  || out=166 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 820: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=163  || out=166 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 825: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=164 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 825: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=164  || out=167 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 825: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=164  || out=167 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 830: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=165 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 830: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=165  || out=168 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 830: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=165  || out=168 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 835: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=166 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 835: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=166  || out=169 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 835: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=166  || out=169 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 840: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=167 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 840: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=167  || out=170 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 840: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=167  || out=170 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 845: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=168 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 845: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=168  || out=171 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 845: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=168  || out=171 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 850: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=169 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 850: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=169  || out=172 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 850: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=169  || out=172 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 855: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=170 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 855: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=170  || out=173 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 855: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=170  || out=173 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 860: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=171 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 860: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=171  || out=174 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 860: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=171  || out=174 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 865: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=172 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 865: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=172  || out=175 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 865: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=172  || out=175 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 870: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=173 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 870: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=173  || out=176 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 870: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=173  || out=176 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 875: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=174 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 875: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=174  || out=177 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 875: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=174  || out=177 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 880: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=175 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 880: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=175  || out=178 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 880: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=175  || out=178 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 885: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=176 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 885: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=176  || out=179 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 885: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=176  || out=179 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 890: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=177 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 890: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=177  || out=180 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 890: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=177  || out=180 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 895: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=178 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 895: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=178  || out=181 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 895: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=178  || out=181 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 900: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=179 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 900: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=179  || out=182 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 900: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=179  || out=182 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 905: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=180 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 905: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=180  || out=183 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 905: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=180  || out=183 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 910: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=181 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 910: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=181  || out=184 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 910: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=181  || out=184 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 915: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=182 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 915: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=182  || out=185 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 915: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=182  || out=185 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 920: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=183 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 920: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=183  || out=186 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 920: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=183  || out=186 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 925: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=184 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 925: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=184  || out=187 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 925: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=184  || out=187 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 930: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=185 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 930: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=185  || out=188 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 930: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=185  || out=188 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 935: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=186 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 935: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=186  || out=189 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 935: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=186  || out=189 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 940: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=187 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 940: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=187  || out=190 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 940: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=187  || out=190 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 945: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=188 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 945: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=188  || out=191 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 945: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=188  || out=191 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 950: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=189 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 950: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=189  || out=192 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 950: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=189  || out=192 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 955: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=190 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 955: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=190  || out=193 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 955: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=190  || out=193 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 960: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=191 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 960: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=191  || out=194 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 960: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=191  || out=194 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 965: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=192 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 965: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=192  || out=195 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 965: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=192  || out=195 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 970: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=193 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 970: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=193  || out=196 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 970: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=193  || out=196 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 975: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=194 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 975: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=194  || out=197 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 975: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=194  || out=197 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 980: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=195 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 980: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=195  || out=198 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 980: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=195  || out=198 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 985: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=196 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 985: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=196  || out=199 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 985: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=196  || out=199 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 990: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=197 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 990: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=197  || out=200 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 990: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=197  || out=200 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 995: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=198 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 995: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=198  || out=201 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 995: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=198  || out=201 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1000: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=199 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1000: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=199  || out=202 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1000: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=199  || out=202 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1005: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=200 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1005: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=200  || out=203 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1005: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=200  || out=203 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1010: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=201 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1010: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=201  || out=204 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1010: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=201  || out=204 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1015: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=202 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1015: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=202  || out=205 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1015: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=202  || out=205 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1020: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=203 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1020: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=203  || out=206 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1020: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=203  || out=206 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1025: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=204 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1025: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=204  || out=207 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1025: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=204  || out=207 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1030: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=205 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1030: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=205  || out=208 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1030: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=205  || out=208 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1035: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=206 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1035: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=206  || out=209 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1035: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=206  || out=209 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1040: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=207 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1040: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=207  || out=210 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1040: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=207  || out=210 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1045: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=208 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1045: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=208  || out=211 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1045: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=208  || out=211 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1050: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=209 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1050: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=209  || out=212 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1050: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=209  || out=212 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1055: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=210 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1055: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=210  || out=213 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1055: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=210  || out=213 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1060: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=211 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1060: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=211  || out=214 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1060: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=211  || out=214 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1065: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=212 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1065: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=212  || out=215 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1065: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=212  || out=215 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1070: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=213 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1070: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=213  || out=216 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1070: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=213  || out=216 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1075: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=214 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1075: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=214  || out=217 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1075: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=214  || out=217 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1080: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=215 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1080: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=215  || out=218 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1080: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=215  || out=218 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1085: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=216 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1085: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=216  || out=219 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1085: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=216  || out=219 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1090: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=217 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1090: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=217  || out=220 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1090: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=217  || out=220 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1095: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=218 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1095: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=218  || out=221 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1095: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=218  || out=221 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1100: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=219 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1100: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=219  || out=222 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1100: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=219  || out=222 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1105: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=220 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1105: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=220  || out=223 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1105: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=220  || out=223 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1110: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=221 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1110: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=221  || out=224 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1110: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=221  || out=224 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1115: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=222 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1115: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=222  || out=225 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1115: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=222  || out=225 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1120: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=223 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1120: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=223  || out=226 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1120: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=223  || out=226 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1125: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=224 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1125: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=224  || out=227 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1125: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=224  || out=227 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1130: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=225 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1130: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=225  || out=228 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1130: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=225  || out=228 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1135: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=226 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1135: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=226  || out=229 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1135: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=226  || out=229 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1140: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=227 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1140: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=227  || out=230 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1140: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=227  || out=230 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1145: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=228 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1145: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=228  || out=231 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1145: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=228  || out=231 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1150: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=229 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1150: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=229  || out=232 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1150: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=229  || out=232 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1155: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=230 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1155: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=230  || out=233 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1155: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=230  || out=233 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1160: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=231 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1160: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=231  || out=234 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1160: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=231  || out=234 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1165: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=232 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1165: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=232  || out=235 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1165: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=232  || out=235 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1170: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=233 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1170: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=233  || out=236 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1170: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=233  || out=236 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1175: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=234 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1175: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=234  || out=237 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1175: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=234  || out=237 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1180: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=235 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1180: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=235  || out=238 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1180: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=235  || out=238 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1185: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=236 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1185: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=236  || out=239 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1185: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=236  || out=239 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1190: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=237 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1190: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=237  || out=240 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1190: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=237  || out=240 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1195: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=238 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1195: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=238  || out=241 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1195: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=238  || out=241 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1200: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=239 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1200: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=239  || out=242 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1200: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=239  || out=242 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1205: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=240 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1205: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=240  || out=243 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1205: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=240  || out=243 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1210: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=241 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1210: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=241  || out=244 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1210: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=241  || out=244 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1215: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=242 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1215: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=242  || out=245 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1215: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=242  || out=245 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1220: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=243 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1220: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=243  || out=246 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1220: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=243  || out=246 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1225: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=244 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1225: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=244  || out=247 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1225: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=244  || out=247 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1230: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=245 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1230: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=245  || out=248 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1230: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=245  || out=248 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1235: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=246 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1235: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=246  || out=249 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1235: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=246  || out=249 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1240: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=247 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1240: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=247  || out=250 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1240: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=247  || out=250 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1245: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=248 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1245: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=248  || out=251 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1245: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=248  || out=251 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=249 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=249  || out=252 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1250: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=249  || out=252 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1255: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=250 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1255: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=250  || out=253 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1255: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=250  || out=253 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1260: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=251 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1260: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=251  || out=254 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1260: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=251  || out=254 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1265: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=252 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1265: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=252  || out=255 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1265: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=252  || out=255 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1270: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=253 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1270: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=253  || out=256 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1270: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=253  || out=256 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1275: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=254 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1275: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=254  || out=257 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1275: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=254  || out=257 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1280: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=255 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1280: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=255  || out=258 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1280: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=255  || out=258 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1285: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 13 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1285: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 13  || out= 16 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1285: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 13  || out= 16 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1290: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=122 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1290: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=122  || out=125 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1290: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=122  || out=125 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1295: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 84 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1295: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 84  || out= 87 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1295: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 84  || out= 87 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1300: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=155 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1300: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=155  || out=158 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1300: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=155  || out=158 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1305: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 79 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1305: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 79  || out= 82 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1305: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 79  || out= 82 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1310: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=112 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1310: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=112  || out=115 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1310: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=112  || out=115 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1315: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=254 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1315: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=254  || out=257 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1315: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=254  || out=257 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1320: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=249 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1320: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=249  || out=252 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1320: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=249  || out=252 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1325: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 97 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1325: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 97  || out=100 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1325: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 97  || out=100 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1330: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 54 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1330: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 54  || out= 57 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1330: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 54  || out= 57 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1335: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=120 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1335: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=120  || out=123 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1335: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=120  || out=123 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1340: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 39 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1340: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 39  || out= 42 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1340: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 39  || out= 42 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1345: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 67 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1345: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 67  || out= 70 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1345: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 67  || out= 70 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1350: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=204 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1350: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=204  || out=207 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1350: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=204  || out=207 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1355: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=194 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1355: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=194  || out=197 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1355: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=194  || out=197 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1360: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 37 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1360: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 37  || out= 40 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1360: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 37  || out= 40 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1365: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=245 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1365: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=245  || out=248 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1365: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=245  || out=248 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1370: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 50 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1370: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 50  || out= 53 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1370: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 50  || out= 53 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1375: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=220 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1375: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=220  || out=223 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1375: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=220  || out=223 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1380: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=243 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1380: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=243  || out=246 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1380: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=243  || out=246 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1385: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=119 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1385: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=119  || out=122 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1385: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=119  || out=122 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1390: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=104 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1390: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=104  || out=107 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1390: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=104  || out=107 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1395: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=198 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1395: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=198  || out=201 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1395: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=198  || out=201 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1400: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=126 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1400: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=126  || out=129 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1400: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=126  || out=129 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1405: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=182 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1405: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=182  || out=185 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1405: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=182  || out=185 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1410: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 91 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1410: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 91  || out= 94 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1410: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 91  || out= 94 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1415: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=109 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1415: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=109  || out=112 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1415: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=109  || out=112 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1420: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=236 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1420: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=236  || out=239 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1420: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=236  || out=239 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1425: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=216 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1425: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=216  || out=219 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1425: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=216  || out=219 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1430: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 49 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1430: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 49  || out= 52 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1430: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 49  || out= 52 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1435: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=247 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1435: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=247  || out=250 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1435: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=247  || out=250 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1440: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 42 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1440: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 42  || out= 45 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1440: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 42  || out= 45 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1445: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=202 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1445: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=202  || out=205 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1445: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=202  || out=205 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1450: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=215 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1450: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=215  || out=218 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1450: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=215  || out=218 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1455: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 81 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1455: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 81  || out= 84 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1455: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 81  || out= 84 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1460: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 56 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1460: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 56  || out= 59 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1460: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 56  || out= 59 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1465: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=140 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1465: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=140  || out=143 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1465: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=140  || out=143 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1470: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 77 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1470: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 77  || out= 80 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1470: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 77  || out= 80 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1475: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=123 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1475: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=123  || out=126 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1475: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=123  || out=126 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1480: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 22 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1480: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 22  || out= 25 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1480: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 22  || out= 25 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1485: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 30 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1485: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 30  || out= 33 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1485: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 30  || out= 33 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1490: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=147 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1490: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=147  || out=150 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1490: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=147  || out=150 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1495: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=117 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1495: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=117  || out=120 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1495: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=117  || out=120 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1500: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=196 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1500: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=196  || out=199 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1500: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=196  || out=199 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1505: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=128 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1505: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=128  || out=131 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1505: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=128  || out=131 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1510: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=169 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1510: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=169  || out=172 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1510: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=169  || out=172 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1515: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 63 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1515: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 63  || out= 66 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1515: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 63  || out= 66 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1520: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in= 66 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1520: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in= 66  || out= 69 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1520: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in= 66  || out= 69 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1525: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=178 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1525: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=178  || out=181 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1525: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=178  || out=181 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(48) @ 1530: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=143 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(63) @ 1530: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=143  || out=146 
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(81) @ 1530: uvm_test_top.env_h.scoreboard_h [ 
+ [PASS ] in=143  || out=146 
+UVM_INFO /home/runner/bin2ex3_coverage.sv(51) @ 1540: uvm_test_top.env_h.coverage_h [bin2ex3_coverage] Coverage is 100.000000
+UVM_INFO /home/runner/bin2ex3_scoreboard.sv(101) @ 1540: uvm_test_top.env_h.scoreboard_h [PASSED] *** TEST PASSED - 304 vectors ran, 304 vectors passed ***
